@@ -6,7 +6,7 @@ A free, modern resume builder that runs entirely in your browser. No backend, no
 
 ## Features
 
-- **33 templates** across three layouts: single column, header band and sidebar
+- **80 templates** across three layouts: single column, header band and sidebar
 - **Template preview**: tap any template to see its layout in an animated popup, then press *Use this template*
 - **Live editing**: change any field and the A4 preview updates instantly
 - **Photo placement**: upload a photo, drag it anywhere on the page, resize it from the corner, and pick circle, rounded or square
